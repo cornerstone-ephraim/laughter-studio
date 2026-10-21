@@ -8,7 +8,7 @@ import { structure } from "./sanity/structure";
 
 export default defineConfig({
   name: "laughter_portfolio",
-  title: "Laughter Portfolio",
+  title: "Laughter Ephraim Studio",
   projectId,
   dataset,
   plugins: [
